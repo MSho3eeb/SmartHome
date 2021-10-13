@@ -1,0 +1,7 @@
+F -- Motor start
+B -- Motor stop
+R -- LED1 on
+L -- LED1 off
+u -- SPEED UP
+d -- SPEED DOWN
+r -- Get temp from slave
